@@ -1,13 +1,18 @@
 # Activate-Windows-8-8.1-10-and-11-Pro-for-Free
 Activate Windows 8, 8.1, 10 and 11 Pro for Free
-NOTE
+
+<img src="./icon/digital license.png" >
+
+**NOTE**
+
 If you see the Windows keyboard button <kbd><img src="./icon/icons8-windows-10-100.png" width="20"></kbd> in this guide; and you can't find it on your keyboard, you likely have/had Windows 10 which has the button <kbd><img src="./icon/icons8-windows-10-100.png" width="20"></kbd> . If you can't find that one, you likely have a PC that has been upgraded to Windows 8/8.1/10/11 from Windows 8.1/8/7/Vista/XP and other ones. If you have one of those, refer the Windows key button to as yours. A list of them is below:
+<img src="./icon/windows-logo..jpg" align="right" width="auto" height="300">
 - <kbd><img src="./icon/icons8-windows-11-100.png" width="20"></kbd> - **Windows 11**
 - <kbd><img src="./icon/icons8-windows-10-100.png" width="20"></kbd> - **Windows 10**
 - <kbd><img src="./icon/icons8-windows8-100.png" width="20"></kbd> - **Windows 8/8.1**
 - <kbd><img src="./icon/icons8-windows-xp-100.png" width="20"></kbd> - **Windows XP/Vista/7**
 - <kbd><img src="./icon/icons8-windows-98-100.png" width="20"></kbd> - **Windows 95/98**
-<img src="./icon/windows-logo..jpg" aligh="right">
+- 
  This doesn't say that your PC currently runs an older version of Windows. It is just the logo from the Windows version it came with. Your PC can always be upgraded to a newer version of Windows if it runs 64-bit and has a good CPU and GPU.
 
 ## Why?
@@ -56,6 +61,7 @@ Third is for users with PERMANENT activation. This requires you to have a Micros
 People which already have Pro, but not activated, can skip to this [step](https://github.com/dasiboyz/Activate-Windows-8-8.1-10-and-11-Pro-for-Free/blob/Coad/Activating%20Windows%20Pro%20Method/Method%203.md).
 
 ## I Get a Notification: ```Your Windows license will expire soon``` or Something That way. What Do I Do?
+<img src="./icon/windows 11.jpg">
 Don't worry. You need to run the script again, but a recommendation: **For users which used this guide to activate with the first or second method and now get this message everytime, use the third method to activate it forever. But it requires a Microsoft account. When using Windows 8 or Windows 8.1, the third method won't work.**
 
 ## Getting Started
@@ -134,6 +140,8 @@ Note: This method requires you to have a Microsoft account connected! This is th
 5. Wait until the window for the activation tool pops up.
 6. Choose the option for HWID Activation by pressing the key associated with it.
 7. Wait until it completes. It might give an SKU value error, but it will complete successfully. If it doesn't try again a few times and it should work.
+
+<img src="./icon/digital license cmd.png">
 
 # Last Words
 I hope you enjoy it! 💖
