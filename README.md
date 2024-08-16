@@ -7,7 +7,7 @@ If you see the Windows keyboard button <kbd><img src="./icon/icons8-windows-10-1
 - <kbd><img src="./icon/icons8-windows8-100.png" width="20"></kbd> - **Windows 8/8.1**
 - <kbd><img src="./icon/icons8-windows-xp-100.png" width="20"></kbd> - **Windows XP/Vista/7**
 - <kbd><img src="./icon/icons8-windows-98-100.png" width="20"></kbd> - **Windows 95/98**
-
+<img src="./icon/windows-logo." aligh="right">
  This doesn't say that your PC currently runs an older version of Windows. It is just the logo from the Windows version it came with. Your PC can always be upgraded to a newer version of Windows if it runs 64-bit and has a good CPU and GPU.
 
 ## Why?
