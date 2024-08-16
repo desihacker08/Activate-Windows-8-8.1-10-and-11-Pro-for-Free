@@ -24,7 +24,7 @@ Create a restore point to make sure you can roll back if something doesn't work,
 The Restore Point Tool is a good tool using Batch to create a Windows restore point automatically so that you can rollback to your previous Windows edition. If needed, you can later on restore to this point to make everything working again.
 
 ## Tool Usage
-1. Download the tool from [here](https://www.google.com/). <br>
+1. Download the tool from [here](https://github.com/dasiboyz/Activate-Windows-8-8.1-10-and-11-Pro-for-Free/blob/Coad/File/Windows%20Edition%20Restore%20Point%20Tool.bat). <br>
 2. Run the file as administrator.
 3. Wait some time. You will see some text that it is working on some things.
 4. When it is done, it will prompt 'Create restore point done!'.
@@ -118,7 +118,7 @@ Note: This does not always work. When running `slmgr /ato` it does not always wo
 # Method 2 For Activating Windows Pro (Windows 8/8.1/10/11)
 There's another method with a batch file.
 
-1. Download it by [clicking here]().
+1. Download it by [clicking here](https://github.com/dasiboyz/Activate-Windows-8-8.1-10-and-11-Pro-for-Free/blob/Coad/File/Activate_Windows_10_And_11_Pro_Free.bat).
 2. It will start to download. `Click Save` (As) to save it. Now we need to open Windows Explorer. First, press the keyboard keys <kbd><img src="./icon/icons8-windows-10-100.png" width="20"></kbd> + `R`. 
 3. Type `explorer.exe` in the box and click `Enter` on your keyboard or click `OK`. 
 4. Now it will open Windows Explorer. You're here now:
