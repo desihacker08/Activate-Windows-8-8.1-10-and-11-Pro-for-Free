@@ -122,7 +122,18 @@ There's another method with a batch file.
 2. It will start to download. `Click Save` (As) to save it. Now we need to open Windows Explorer. First, press the keyboard keys <kbd><img src="./icon/icons8-windows-10-100.png" width="20"></kbd> + `R`. 
 3. Type `explorer.exe` in the box and click `Enter` on your keyboard or click `OK`. 
 4. Now it will open Windows Explorer. You're here now:
+5. Click on `Downloads`, or go to the directory where you saved the downloaded batch file. Now you are here (or on a different place):
+6. Click on the batch file once, then right click and click `Run As Administrator`. It will ask for UAC permissions. Click `Yes` now. Now a console windows will open. Wait until it says `<product activation succesfull>`. Now you activated Windows Pro for free! It also asks if you wanna see someone's blog. Press `Y` if you want to and `N` if you don't want to see.
 
+# Method 3 for Activating Windows Pro Permanently (Windows 10/11)
+Note: This method requires you to have a Microsoft account connected! This is the method most people may use as this one activates it PERMANENT. If the below steps aren't working, try to download the batch file manually (.cmd and .bat are both the same) from [here]() by opening the link and pressing Ctrl+S to save the file. After that run the .cmd file manually as administrator and you're already at final step, 7!
+1. Press <kbd><img src="./icon/icons8-windows-11-100.png" width="20"></kbd> + `R` to open the Run menu.
+2. Enter 'powershell' in the box of the Run menu.
+3. Press `Ctrl` + `Shift` + `Enter`.
+4. In the PowerShell window, enter the following command and press `Enter`: `irm https://get.activated.win | iex`
+5. Wait until the window for the activation tool pops up.
+6. Choose the option for HWID Activation by pressing the key associated with it.
+7. Wait until it completes. It might give an SKU value error, but it will complete successfully. If it doesn't try again a few times and it should work.
 
 
 
