@@ -50,10 +50,10 @@ Backup the activation key you are currently using. This is to make sure that if 
 - It isn't connected to your Microsoft Account and is no digital license. If you have a Microsoft account with a digital license, you don't need to worry.
 
 ## Use Third Method for PERMANENT Activation!
-Third is for users with PERMANENT activation. This requires you to have a Microsoft account connected with Windows. Find it by [clicking here](). **The first and second methods are NOT PERMANENT.**
+Third is for users with PERMANENT activation. This requires you to have a Microsoft account connected with Windows. Find it by [clicking here](https://github.com/dasiboyz/Activate-Windows-8-8.1-10-and-11-Pro-for-Free/blob/Coad/Activating%20Windows%20Pro%20Method/Method%203.md). **The first and second methods are NOT PERMANENT.**
 
 ## Note for Users with Unactivated Pro Edition
-People which already have Pro, but not activated, can skip to this [step]().
+People which already have Pro, but not activated, can skip to this [step](https://github.com/dasiboyz/Activate-Windows-8-8.1-10-and-11-Pro-for-Free/blob/Coad/Activating%20Windows%20Pro%20Method/Method%203.md).
 
 ## I Get a Notification: ```Your Windows license will expire soon``` or Something That way. What Do I Do?
 Don't worry. You need to run the script again, but a recommendation: **For users which used this guide to activate with the first or second method and now get this message everytime, use the third method to activate it forever. But it requires a Microsoft account. When using Windows 8 or Windows 8.1, the third method won't work.**
@@ -134,14 +134,3 @@ Note: This method requires you to have a Microsoft account connected! This is th
 5. Wait until the window for the activation tool pops up.
 6. Choose the option for HWID Activation by pressing the key associated with it.
 7. Wait until it completes. It might give an SKU value error, but it will complete successfully. If it doesn't try again a few times and it should work.
-
-
-
-
-
-
-
-
-
-
-
