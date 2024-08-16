@@ -68,23 +68,60 @@ Don't worry. You need to run the script again, but a recommendation: **For users
 7. Now you have something like this:
 
 ## The Commands
-Now, type the following command: `slmgr.vbs /upk`
+1. Now, type the following command: `slmgr.vbs /upk`
 **Note:** this will remove your current activation key!
-Now it will give an message, click on `OK`.
-And now this command: `slmgr.vbs /cpky`
-It will give an message once again, and click on `OK` again
-And now type this command: `slmgr.vbs /ckms`
-Once again click on `OK` when you get a message
+2. Now it will give an message, click on `OK`.
+3. And now this command: `slmgr.vbs /cpky`
+4. It will give an message once again, and click on `OK` again
+5. And now type this command: `slmgr.vbs /ckms`
+6. Once again click on `OK` when you get a message
+
+## Edition Upgradable Check Command
+Now we are going to check whether your edition has support for upgrading to the Pro edition.
+1. Run the following command to check this: `DISM /online /Get-TargetEditions`
+2.  If you see `Professional` in the list, then you can upgrade your Windows edition to Pro for free!
+
+## Running Windows Pro installer
+1. Now, copy and paste this complete command:
+   ```
+   sc config LicenseManager start= auto & net start LicenseManager
+   sc config wuauserv start= auto & net start wuauserv
+   changepk.exe /productkey VK7JG-NPHTM-C97JM-9MPGT-3V66T
+   exit
+   ```
+3. It will run an installer and you will see an message: `% complete`
+4. Now wait until it's 100% and then you get an error (This is **normal**, this needs to happen)
+5. When you get the error, just click `Exit` and then reboot your pc
+6. You will now see a message that he is running updates and is installing features, just wait until its done and check `info` in settings, You will see that Windows 10/11 Pro is installed! **(May show Windows Enterprise, but will be Windows Pro!!)**.
+   
+   But we are not done yet, You will see that it isn't activated and that you can't change some settings, now we are going to fix that!
+
+## Activating Windows Pro
+Now we are going to activate Windows Pro for free. Choose one of the methods below. The third method is recommended, as this will activate it permanently. This requires you to have a Microsoft account associated with your device and make sure you run Windows 10 or Windows 11. The third method will not work on Windows 8 and Windows 8.1.
+
+# Method 1 For Activating Windows Pro (Windows 8/8.1/10/11)
+1. Now we are going to run some other commands to activate Windows 8/8.1/10/11 Pro
+2. Press <kbd><img src="./icon/icons8-windows-11-100.png" width="20"></kbd> + `R`
+3. It looks like this again:
+4. Press Ctrl + Shift + Enter
+5. You will get a message, just click on Yes
+6. Now you will get a command prompt
+7. Type the following commands one for one to activate:
+```
+slmgr /ipk W269N-WFGWX-YVC9B-4J6C9-T83GX
+slmgr /skms kms8.msguides.com
+slmgr /ato
+```
+Note: This does not always work. When running `slmgr /ato` it does not always work, but keep trying. When it still doesn't work then, try one of the other methods below. If it was successful, you now have Windows 10/11 Pro and it activated! You can check settings to see it.
 
 
+# Method 2 For Activating Windows Pro (Windows 8/8.1/10/11)
+There's another method with a batch file.
 
-
-
-
-
-
-
-
+1. Download it by clicking here.
+2. It will start to download. `Click Save` (As) to save it. Now we need to open Windows Explorer. First, press the keyboard keys <kbd><img src="./icon/icons8-windows-10-100.png" width="20"></kbd> + `R`. 
+3. Type `explorer.exe` in the box and click `Enter` on your keyboard or click `OK`. 
+4. Now it will open Windows Explorer. You're here now:
 
 
 
