@@ -5,5 +5,5 @@ If you see the Windows keyboard button <kbd><img src="./icon/icons8-windows-10-1
 - <kbd><img src="./icon/icons8-windows-11-100.png" width="20"></kbd> - **Windows 11**
 - <kbd><img src="./icon/icons8-windows-10-100.png" width="20"></kbd> - **Windows 10**
 - <kbd><img src="./icon/icons8-windows8-100.png" width="20"></kbd> - **Windows 8/8.1**
-- <kbd><img src="./icon/icons8-windows-xp-100.png" width="20"></kbd> - **Windows XP**
+- <kbd><img src="./icon/icons8-windows-xp-100.png" width="20"></kbd> - **Windows XP/Vista/7**
  
