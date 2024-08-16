@@ -134,3 +134,6 @@ Note: This method requires you to have a Microsoft account connected! This is th
 5. Wait until the window for the activation tool pops up.
 6. Choose the option for HWID Activation by pressing the key associated with it.
 7. Wait until it completes. It might give an SKU value error, but it will complete successfully. If it doesn't try again a few times and it should work.
+
+# Last Words
+I hope you enjoy it! 💖
