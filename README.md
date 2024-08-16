@@ -62,7 +62,32 @@ Don't worry. You need to run the script again, but a recommendation: **For users
 1. What you first need to do is open CMD (Command Prompt) as Administrator by pressing <kbd><img src="./icon/icons8-windows-11-100.png" width="20"></kbd> + R.
 2. And now type in cmd.exe in the box
 3. It should now look as something like this:
-4. 
+4. Now press the 3 keys `Ctrl` + `Shift` + `Enter`.
+5. Now you should have something like this:
+6. Now, click on `Yes`.
+7. Now you have something like this:
+
+## The Commands
+Now, type the following command: `slmgr.vbs /upk`
+**Note:** this will remove your current activation key!
+Now it will give an message, click on `OK`.
+And now this command: `slmgr.vbs /cpky`
+It will give an message once again, and click on `OK` again
+And now type this command: `slmgr.vbs /ckms`
+Once again click on `OK` when you get a message
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
