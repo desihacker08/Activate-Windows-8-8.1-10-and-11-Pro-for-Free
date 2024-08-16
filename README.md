@@ -118,7 +118,7 @@ Note: This does not always work. When running `slmgr /ato` it does not always wo
 # Method 2 For Activating Windows Pro (Windows 8/8.1/10/11)
 There's another method with a batch file.
 
-1. Download it by clicking here.
+1. Download it by [clicking here]().
 2. It will start to download. `Click Save` (As) to save it. Now we need to open Windows Explorer. First, press the keyboard keys <kbd><img src="./icon/icons8-windows-10-100.png" width="20"></kbd> + `R`. 
 3. Type `explorer.exe` in the box and click `Enter` on your keyboard or click `OK`. 
 4. Now it will open Windows Explorer. You're here now:
