@@ -1,6 +1,6 @@
 # Method 1 For Activating Windows Pro (Windows 8/8.1/10/11)
 1. Now we are going to run some other commands to activate Windows 8/8.1/10/11 Pro
-2. Press <kbd><img src="./icon/icons8-windows-11-100.png" width="20"></kbd> + `R`
+2. Press <kbd><img src="/icon/icons8-windows-10-100.png" width="20"></kbd> + `R`
 3. It looks like this again:
 4. Press Ctrl + Shift + Enter
 5. You will get a message, just click on Yes
