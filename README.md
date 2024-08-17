@@ -67,12 +67,19 @@ People which already have Pro, but not activated, can skip to this [step](https:
 Don't worry. You need to run the script again, but a recommendation: **For users which used this guide to activate with the first or second method and now get this message everytime, use the third method to activate it forever. But it requires a Microsoft account. When using Windows 8 or Windows 8.1, the third method won't work.**
 
 ## Getting Started
-1. What you first need to do is open CMD (Command Prompt) as Administrator by pressing <kbd><img src="./icon/icons8-windows-11-100.png" width="20"></kbd> + R.
-2. And now type in cmd.exe in the box
+  1. What you first need to do is open CMD (Command Prompt) as Administrator by pressing <kbd><img src="./icon/icons8-windows-11-100.png" width="20"></kbd> + R.
+<img src="./icon/Run.png">
+
+  2. And now type in cmd.exe in the box.
+
 3. It should now look as something like this:
+
 4. Now press the 3 keys `Ctrl` + `Shift` + `Enter`.
+
 5. Now you should have something like this:
+
 6. Now, click on `Yes`.
+
 7. Now you have something like this:
 
 ## The Commands
