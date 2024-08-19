@@ -152,5 +152,14 @@ Note: This method requires you to have a Microsoft account connected! This is th
 
 <img src="./icon/digital license cmd.png">
 
+
+
+# License
+This project is licensed under the MIT License - see the [LICENSE](LICENSE.md) file for details.
+
+This provides a clear statement of the licensing terms, and linking to the `LICENSE` file ensures that anyone viewing your `README.md` file.
+
+
+
 # Last Words
 I hope you enjoy it! 💖
