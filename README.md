@@ -141,7 +141,7 @@ There's another method with a batch file.
 6. Click on the batch file once, then right click and click `Run As Administrator`. It will ask for UAC permissions. Click `Yes` now. Now a console windows will open. Wait until it says `<product activation succesfull>`. Now you activated Windows Pro for free! It also asks if you wanna see someone's blog. Press `Y` if you want to and `N` if you don't want to see.
 
 # Method 3 for Activating Windows Pro Permanently (Windows 10/11)
-<img src="/icon/activation.png" align="right">
+<img src="/icon/activation.png" align="right" width="50%">
 <img src="/icon/windows demo.webp" >
 
 
